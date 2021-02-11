@@ -1,2 +1,2 @@
 document.write("my site");
-window.location.href = "https://google.com";
+// window.location.href = "https://google.com";
